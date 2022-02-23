@@ -1,4 +1,4 @@
-# Next.js and Express JWT authentication
+#  authentication
 
 ## Introduction
 
